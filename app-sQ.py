@@ -18,7 +18,7 @@ from PIL import Image
 
 image1 = Image.open('logigeek-logo-short.png')
 st.set_page_config(
-    page_title="INV_Simulation01|LogiGeek", 
+    page_title="INV_Simulation03|LogiGeek", 
     page_icon=image1,
     layout="wide")
 
